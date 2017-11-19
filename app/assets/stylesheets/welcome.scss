@@ -1,0 +1,92 @@
+// Place all the styles related to the Welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#resumebutton {
+  float: right;
+  margin-right: 21px;
+  margin-top: 25px;
+}
+
+
+#jumbo {
+  height: 600px;
+  text-align: center;
+  color: Black;
+  background-image: url("web2.jpg");
+  margin-bottom: 0px;
+}
+
+#modalbutton {
+  float: right;
+  margin-right: 35px;
+  background-color: #328cc1;
+  border-color: #328cc1;
+}
+
+#contactModal {
+
+}
+
+#well {
+  background-color: #1d2731;
+  height: 90px;
+  margin-bottom: 40px;
+}
+
+#fb {
+  padding-top: 5px
+}
+#li {
+  padding-top: 8px;
+}
+#gh {
+  padding-top: 6px
+}
+#ig {
+  padding-top: 6px;
+}
+
+.card-img-top {
+  height: 190px;
+  padding-top: 15px;
+}
+
+#leftcard {
+  margin-left: -20px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#middlecard {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#rightcard {
+  margin-right: -20px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#cardbutton {
+  background-color: #0b3c5d;
+  border-color: #0b3c5d;
+}
+
+
+#carousel {
+  background-color: black;
+  height: 350px;
+  margin-top: 25px;
+  margin-bottom: 75px;
+}
+
+#carimg {
+
+}
